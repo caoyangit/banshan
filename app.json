@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: banshan",
+  "description": "banshan",
+  "repository": "https://github.com/heroku/php-getting-started",
+  "addons": []
+}
